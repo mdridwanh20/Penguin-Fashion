@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.font-roboto{
+    font-family: "Roboto", sans-serif;
+}
+.font-bebas-neue{
+    font-family: "Bebas Neue", sans-serif;
+}
+.dark-color{
+    color: #363958;
+}
